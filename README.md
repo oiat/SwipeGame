@@ -27,7 +27,7 @@ The style of the game can be customised in the settings.json file. The following
 
 The images, icons, and background music that are included in the game folder can be replaced with other files of the same format.
 
-### Einstellungen
+### Settings
 The game settings can also be customised in the settings.json file.
 
 - randomizeQuestions `bool`  
@@ -47,9 +47,9 @@ The game settings can also be customised in the settings.json file.
 - penalty `bool`  
   wrong answers will result in penalty points
 - maxquestions `int`  
-  displays a maximum of x cards. Only useful in conjunction with randomizeQuestions.
+  displays a maximum of x cards, only useful in conjunction with randomizeQuestions
 - mute `bool`  
-  deactivates the background music
+  deactivates  background music
 
 ### Questions and answers
 The cards can be configured using the questions.json file.
@@ -79,7 +79,7 @@ The file contains a 'questions' object which can contain any number of card obje
 - vid `string` *optional*  
   video on the card
 - feedback `object` *optional*  
-  displays feedback depending on whether the question was answered correctly or incorrectly. can contain `text` and/or `img` 
+  displays feedback depending on whether the question was answered correctly or incorrectly, can contain `text` and/or `img` 
 - points `int`  
   points for this card
 - correct `bool`  
