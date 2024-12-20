@@ -8,7 +8,7 @@ Generative AI is booming, and so is the creation of fakes and deep fakes. At the
 
 The Swipe Game is part of Fight Fakes. The game presents a series of cards that the player can swipe to the right (true) or left (false). 
 
-Fight Fakes is a project of the [ÖIAT](https://oiat.at/) initiatitve [Saferinternet.at](https://saferinternet.at/) and was funded by [netidee](https://www.netidee.at/). More information about the project can be found here: [https://www.saferinternet.at/projekte/fight-fakes](https://www.saferinternet.at/projekte/fight-fakes)
+Fight Fakes is a project of the [ÖIAT](https://oiat.at/) initiatitve [Saferinternet.at](https://saferinternet.at/) and was funded by [netidee](https://www.netidee.at/). More information about the project can be found here: [https://www.saferinternet.at/projekte/fight-fakes](https://www.saferinternet.at/projekte/fight-fakes).
 
 ## Configuration
 ### Design
