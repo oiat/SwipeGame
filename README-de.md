@@ -4,11 +4,11 @@
 
 ## Einführung
 
-Generative KI boomt und mit ihr die Erstellung von Fakes und Deep Fakes. Gleichzeitig fehlt es an kurzweiligen und leicht in der Schule einsetzbaren Übungen zum Thema Deep Fake-Erkennung. Hier setzt das Projekt Fight Fakes an, bei dem eine Spielumgebung entwickelt wurde, in der Jugendliche spielerisch lernen können, Informationen schnell und intuitiv zu bewerten. 
+Generative KI boomt und mit ihr die Erstellung von Fakes und Deep Fakes. Gleichzeitig fehlt es an kurzweiligen und leicht in der Schule einsetzbaren Übungen zum Thema Deep Fake-Erkennung. Hier setzt das Projekt Fight Fakes an, bei dem eine Gameumgebung entwickelt wurde, in der Jugendliche spielerisch lernen können, Informationen schnell und intuitiv zu bewerten. 
 
-Das Swipe Game ist Teil von Fight Fakes. Das Spiel präsentiert nacheinander Karten die der Spieler nach rechts (richtig) oder links (falsch) swipen kann. 
+Das Swipe Game ist Teil von Fight Fakes. Das Spiel präsentiert nacheinander Karten, die die Spieler:innen nach rechts (richtig) oder links (falsch) swipen können. 
 
-Das Projekt Fight Fakes ist ein Projekt der [ÖIAT (Austrian Institute for Applied Telecommunication)](https://oiat.at/)-Initiatitve [Saferinternet.at](https://saferinternet.at/) und wurde von durch eine [netidee](https://www.netidee.at/)-Förderung ermöglicht. Hier finden Sie weitere Informationen zum Projekt: [https://www.saferinternet.at/projekte/fight-fakes](https://www.saferinternet.at/projekte/fight-fakes)
+Das Projekt Fight Fakes ist ein Projekt der [ÖIAT (Austrian Institute for Applied Telecommunication)](https://oiat.at/)-Initiatitve [Saferinternet.at](https://saferinternet.at/) und wurde durch eine [netidee](https://www.netidee.at/)-Förderung ermöglicht. Hier finden Sie weitere Informationen zum Projekt: [https://www.saferinternet.at/projekte/fight-fakes](https://www.saferinternet.at/projekte/fight-fakes)
 
 ## Konfiguration
 ### Design
@@ -86,4 +86,4 @@ Die Datei enthält ein object "questions" das beliebig viele Karten-Objekte enth
   Karte soll nach rechts (richtig) geswipt werden
 
 ## Credits
-Das Swipe Game wurde von [bytewood](https://bytewood.com/) entwickelt und nutzt [jQuery](https://jquery.com) und [HammerJS](https://hammerjs.github.io/)
+Das Swipe Game wurde von [bytewood](https://bytewood.com/) entwickelt und nutzt [jQuery](https://jquery.com) und [HammerJS](https://hammerjs.github.io/).
